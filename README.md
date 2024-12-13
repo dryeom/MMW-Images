@@ -1,2 +1,2 @@
-# MMW-Images
-Passive Millimeter Wave (MMW) Images
+# Passive Millimeter Wave (MMW) Images
+
